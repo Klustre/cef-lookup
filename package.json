@@ -1,0 +1,6 @@
+{
+  "name": "cef-lookup",
+  "version": "0.0.1",
+  "main": "cef-lookup.js",
+  "license": "MIT"
+}
